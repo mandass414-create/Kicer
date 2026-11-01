@@ -3,9 +3,18 @@
     "name": "KICER",
     "slug": "kicer",
     "owner": "benhas321",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.benhas321.kicer",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.benhas321.kicer"
+    },
     "extra": {
       "eas": {
-        "projectId": "08596bd0-cf9b-40ea-aca6-66f047de0885"
+        "projectId": "08506bd0-cf9b-40ea-aca6-66f047de0885"
       }
     }
   }
